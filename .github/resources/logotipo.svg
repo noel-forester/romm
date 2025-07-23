@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 112.69">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #553e98;
-        font-family: Orbitron-Black, Orbitron;
-        font-size: 150.2px;
-        font-variation-settings: 'wght' 900;
-        font-weight: 800;
-        letter-spacing: -.06em;
-      }
-    </style>
-  </defs>
-  <text class="cls-1" transform="translate(0 110.46)"><tspan x="0" y="0">ROMM</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 500 112.69"><text style="fill:#553e98;font-family:Orbitron-Black,Orbitron;font-size:150.2px;font-variation-settings:&quot;wght&quot;900;font-weight:800;letter-spacing:-.06em" transform="translate(0 110.46)"><tspan x="0" y="0">ROMM</tspan></text></svg>
